@@ -1,0 +1,26 @@
+.navizquierdo{
+display: flex;
+justify-content: center;
+gap: 35px;
+}
+
+.navizquierdo1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.navizquierdo2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.navderecho{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
